@@ -25,7 +25,7 @@ function Home() {
         <div className="row">
            <div className="card-01">
                 <div className="imgs-card">
-                    <img src="/public/imgs/phonee.png" alt="phone" />
+                    <img src="/imgs/phonee.png" alt="phone" />
                 </div>
                 <div className="text-card">
                     <h3>HeadPhone 4k</h3>
